@@ -57,13 +57,6 @@ Check it out here 👉 [Elite Health Website](https://sara-1129.github.io/electr
 
 ---
 
-
-## 📄 License
-
-MIT License – Do whatever you want with this project. Just don’t replace the doctor with a chatbot, okay? 😄
-
----
-
 ## 🧬 Languages Used
 
 ```text
