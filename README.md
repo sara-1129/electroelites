@@ -40,6 +40,8 @@ Our mission?
 - **HTML** – The bones  
 - **CSS** – The glow-up
 - **JavaScript** – The magic ✨ 
+- **JQuery** - Javascript framework
+- **Bootstrap** - CSS framework
 
 ---
 
